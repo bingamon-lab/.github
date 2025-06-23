@@ -1,0 +1,7 @@
+{
+  "name": "WaSCC Workflow",
+  "description": "Bingamon Lab Organization Workflow for wasCC",
+  "iconName": "bingamon-lab",
+  "categories": ["Rust", "WASM", "waSCC"],
+  "filePatterns": ["^*.rs$", "^Cargo.toml$"]
+}

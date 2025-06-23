@@ -1,0 +1,7 @@
+{
+  "name": "Pulumi Update Workflow",
+  "description": "Bingamon Lab Organization Workflow for Pulumi update",
+  "iconName": "bingamon-lab",
+  "categories": ["Go"],
+  "filePatterns": ["^*.go$"]
+}

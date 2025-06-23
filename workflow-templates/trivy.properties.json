@@ -1,0 +1,14 @@
+{
+  "name": "Trivy Workflow",
+  "description": "Bingamon Lab Organization Workflow for Trivy",
+  "iconName": "bingamon-lab",
+  "categories": ["Go", "Rust", "Docker", "Shell", "PowerShell", "Releases"],
+  "filePatterns": [
+    "^*.go$",
+    "^*.rs$",
+    "^Cargo.toml$",
+    "^Dockerfile*",
+    "^*.sh",
+    "*.ps1$"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "MDBook Workflow",
+  "description": "Bingamon Lab Organization Workflow for MDBook",
+  "iconName": "bingamon-lab",
+  "categories": [
+    "Markdown",
+    "Go",
+    "Rust",
+    "Docker",
+    "Shell",
+    "PowerShell",
+    "Releases"
+  ],
+  "filePatterns": [
+    "^*.md$",
+    "^*.go$",
+    "^*.rs$",
+    "^Cargo.toml$",
+    "^Dockerfile*",
+    "^*.sh",
+    "*.ps1$"
+  ]
+}
